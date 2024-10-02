@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body {
+    background-color:rgb(54, 167, 54);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-image: linear-gradient(to right,#42af4b,#27b33e,#41da55,#36d14b);
+}
+h1 {
+    color:rgb(106, 202, 106); 
+    background-color: rgb(4, 49, 4); 
+    font-size:1.5em;
+}
+p {
+    padding:3px; 
+    text-indent:5x; 
+    color:rgb(2, 48, 16); 
+    font-size:1.0em;
+}
+
+a {
+    color:rgb(4, 150, 2);
+    text-decoration: none;
+    font-weight: bold;
+}
+a:visited{
+    color:rgb(6, 173, 40);
+}
+
+#aula:visited{ 
+    color:green;
+}
+a:hover{ 
+    color:rgb(20, 152, 0);
+    text-decoration: underline;
+}
+a:active{ 
+    color:rgb(69, 123, 70);
+
+}
+
+h3 {
+    color:rgb(106, 202, 106); 
+    background-color: rgb(4, 49, 4); 
+    font-size:1.5em;
+}
